@@ -15,7 +15,7 @@ Here is the link of the challange-
 https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62/hub/stats-preview-card-component-Y28DkIhVu
 
 Here is the solution site url-
-http://127.0.0.1:5500/
+https://drougnov.github.io/stats-preview-card-component-main/
 
 
 ## Built with
